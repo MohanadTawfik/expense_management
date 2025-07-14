@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:expense_management/core/navigation/app_router.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:google_fonts/google_fonts.dart'; // Add google_fonts to pubspec.yaml
-import 'package:personal_finance_app/core/navigation/app_router.dart'; // We will create this
-import 'package:personal_finance_app/shared/presentation/theme/app_theme.dart'; // We will create this
+import 'package:expense_management/core/navigation/app_router.dart'; // We will create this
+import 'package:expense_management/shared/presentation/theme/app_theme.dart';
+
+import 'package:expense_management/shared/presentation/theme/app_theme.dart'; // We will create this
 
 class PersonalFinanceApp extends StatelessWidget {
   const PersonalFinanceApp({super.key});
