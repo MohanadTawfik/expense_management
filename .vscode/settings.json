@@ -1,3 +1,4 @@
 {
-  "cmake.sourceDirectory": "D:/flutter_projects/expense_management/windows/flutter"
+  "cmake.sourceDirectory": "D:/flutter_projects/expense_management/windows/flutter",
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
